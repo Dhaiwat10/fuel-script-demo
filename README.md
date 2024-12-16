@@ -16,7 +16,7 @@ bun install
 
 Run the `fuels dev` server:
 
-``bash
+```bash
 bun fuels dev
 ```
 
