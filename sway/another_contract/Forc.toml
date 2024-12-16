@@ -1,0 +1,8 @@
+[project]
+authors = ["Dhai"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "another_contract"
+
+[dependencies]
+libraries = { path = "../libraries" }
